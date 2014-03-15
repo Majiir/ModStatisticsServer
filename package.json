@@ -1,0 +1,9 @@
+{
+    "name": "modstatistics",
+    "version": "0.0.0",
+    "description": "Analytics site for Kerbal Space Program ModStatistics.",
+    "license": "All Rights Reserved",
+    "author": "Majiir <majiir@nabaal.net>",
+    "engines": { "node": "0.10.x" },
+    "private": true
+}
